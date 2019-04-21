@@ -193,13 +193,16 @@
 				TargetAttributes = {
 					B7C9C18D226A18BA0054F683 = {
 						CreatedOnToolsVersion = 10.1;
+						LastSwiftMigration = 1020;
 					};
 					B7C9C1A1226A18BC0054F683 = {
 						CreatedOnToolsVersion = 10.1;
+						LastSwiftMigration = 1020;
 						TestTargetID = B7C9C18D226A18BA0054F683;
 					};
 					B7C9C1AC226A18BC0054F683 = {
 						CreatedOnToolsVersion = 10.1;
+						LastSwiftMigration = 1020;
 						TestTargetID = B7C9C18D226A18BA0054F683;
 					};
 				};
@@ -441,7 +444,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.macula.macula-app-ios";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
@@ -459,7 +462,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.macula.macula-app-ios";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
@@ -479,7 +482,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.macula.macula-app-iosTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/macula-app-ios.app/macula-app-ios";
 			};
@@ -500,7 +503,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.macula.macula-app-iosTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/macula-app-ios.app/macula-app-ios";
 			};
@@ -520,7 +523,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.macula.macula-app-iosUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_TARGET_NAME = "macula-app-ios";
 			};
@@ -540,7 +543,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.macula.macula-app-iosUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_TARGET_NAME = "macula-app-ios";
 			};
